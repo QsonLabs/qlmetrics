@@ -25,11 +25,13 @@ setup(
     url="https://www.qsonlabs.com",
     test_suite="tests",
     classifiers=[
+        "Development Status :: 4 - Beta",
+        "Framework :: Flake8",
+        "Framework :: tox",
         "License :: OSI Approved :: Apache Software License",
-        "Operating System :: OS Independent",
+        "Operating System :: MacOS",
+        "Operating System :: Unix",
         "Programming Language :: Python :: 2.7",
-        "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.6",
         "Programming Language :: Python :: 3.7",
     ]
 )
