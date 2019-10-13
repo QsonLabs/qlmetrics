@@ -22,7 +22,7 @@ setup(
     author_email="cdoconno@gmail.com",
     description="Metrics tracker",
     license="Apache",
-    url="https://www.qsonlabs.com",
+    url="https://github.com/QsonLabs/qlmetrics",
     test_suite="tests",
     classifiers=[
         "Development Status :: 4 - Beta",
